@@ -1,0 +1,51 @@
+#+TITLE: SVG Thumbnails for File Managers
+#+DESCRIPTION: Some SVGs made with Inkscape
+#+AUTHOR: devlinman
+
++ This [[https://www.reddit.com/r/rust/comments/1q9r05i/media_i_was_having_trouble_finding_my_rust_files/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button][Reddit Post]] inspired this project.
+
+
+* Previews
+[[./preview.png]]
+
+
+* Rust
++ =main.rs=
+
++ [[https://imgur.com/a/rust-icons-file-explorer-dFGRr2A][Imgur Link]] where I downloaded the following thumbnails.
+
++ =./rustfile.svg, ./rustfile_alternate.svg, ./rustfile - Imgur.png= are variants for rust.
+
+
+* Org
++ =README.org=
+
++ Made using *Inkscape*.
+
++ =./orgfile.svg, ./orgfile_alternate.svg= are variants for org.
+
+
+
+* DISCLAIMER & LICENSE
++ I do not own the files obtained from Imgur.
++ I do not own Inkscape or the SVG format.
+
++ [[./LICENSE][LICENSE]] (CC BY-NC 4.0) only applies to SVG files created by me.
+
+*** tldr
+
+You are free to:
+
+   + *Share* — copy and redistribute the material in any medium or format
+
+   + *Adapt* — remix, transform, and build upon the material
+
+   + The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+    + *Attribution* — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+    + *NonCommercial*  — You may not use the material for commercial purposes.
+
+    + *No additional restrictions* — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
